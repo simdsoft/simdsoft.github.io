@@ -1,4 +1,4 @@
-# simdsoft.github.io
+# simdsoft.com
 
 ## Products
 ### x-studio IDE: https://en.x-studio.net/
