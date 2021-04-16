@@ -1,4 +1,4 @@
-# SIMDSOFT
+# Simdsoft Limited
 
 ## Products
 ### x-studio IDE: https://en.x-studio.net/
