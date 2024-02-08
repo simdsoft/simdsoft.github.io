@@ -7,3 +7,7 @@
 ## Products
 
 - [x-studio ide](https://simdsoft.com/x-studio)
+
+## Simdsoft Privacy Policy
+
+[https://global.simdsoft.com/privacy.html](https://global.simdsoft.com/privacy.html)
