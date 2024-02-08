@@ -6,4 +6,4 @@
 
 ## Products
 
-- [x-studio ide](https://x-studio.simdsoft.com/)
+- [x-studio ide](https://simdsoft.com/x-studio)
