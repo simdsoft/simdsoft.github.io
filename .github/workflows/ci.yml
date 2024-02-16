@@ -23,10 +23,11 @@ jobs:
         $cmd_info.Source
         $perl_inst = Split-Path $cmd_info.Source -Parent
         echo "perl_inst=$perl_inst"
+        Compress-Archive -Path C:/Strawberry -DestinationPath ./strawberry-perl-5.32.1.1-64bit-gh.zip
     - name: Upload
       uses: actions/upload-artifact@v4
       with:
-        path: 'C:/Strawberry/**'
-        name: perl-5.32.1
+        path: './*.zip'
+        name: strawberry-perl-5.32.1.1-64bit-gh
 
 
