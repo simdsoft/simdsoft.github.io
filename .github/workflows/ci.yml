@@ -2,7 +2,7 @@
 # See: https://github.com/actions/starter-workflows/blob/main/ci/cmake-multi-platform.yml
 name: ci
 
-on:  [push]
+on: [workflow_dispatch]
 
 jobs:
   build:
@@ -23,5 +23,10 @@ jobs:
         $cmd_info.Source
         $perl_inst = Split-Path $cmd_info.Source -Parent
         echo "perl_inst=$perl_inst"
+    - name: Upload
+      uses: actions/upload-artifact@v4
+      with:
+        path: 'C:/Strawberry/**'
+        name: perl-5.32.1
 
 
