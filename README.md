@@ -10,4 +10,4 @@
 
 ## Simdsoft Privacy Policy
 
-[https://global.simdsoft.com/privacy.html](https://simdsoft.com/privacy.html)
+[https://simdsoft.com/privacy.html](https://simdsoft.com/privacy.html)
