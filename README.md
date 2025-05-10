@@ -2,7 +2,7 @@
 
 ## Download Simdsoft RSA Root CA
 
-[simdsoft-root-ca.crt](https://global.simdsoft.com/simdsoft-root-ca.crt)
+[simdsoft-root-ca.crt](https://learn.simdsoft.com/simdsoft-root-ca.crt)
 
 ## Products
 
@@ -10,4 +10,4 @@
 
 ## Simdsoft Privacy Policy
 
-[https://global.simdsoft.com/privacy.html](https://global.simdsoft.com/privacy.html)
+[https://global.simdsoft.com/privacy.html](https://simdsoft.com/privacy.html)
